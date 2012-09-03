@@ -1,0 +1,24 @@
+body {
+	font-family:	cambria, serif;
+}
+h1 {
+	text-align:		center;
+}
+h2 {
+	border-bottom:	1px solid black;
+	margin:			0px 0px 10px 0px;
+}
+h3 {
+	padding:		0px;
+	margin:			0px;
+}
+h4 {
+	text-decoration:underline;
+}
+address {
+	text-align:		center;	
+}
+p.detail {
+	padding:		0px;
+	margin:			0px;
+}
